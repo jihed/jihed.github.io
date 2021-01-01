@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jihed.github.io/</id>
+    <title>Jihed MSELMI Blog</title>
+    <updated>2021-01-01T23:31:30.423Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jihed.github.io/"/>
+    <subtitle>Jihed MSELMI Blog</subtitle>
+    <icon>https://jihed.github.io/img/favicon.ico</icon>
+    <rights>Copyright © 2021 Jihed MSELMI.</rights>
+    <entry>
+        <title type="html"><![CDATA[Introduction]]></title>
+        <id>Introduction</id>
+        <link href="https://jihed.github.io/01-01-2021-post-1"/>
+        <updated>2021-01-01T23:31:30.423Z</updated>
+        <summary type="html"><![CDATA[This is my first post.]]></summary>
+    </entry>
+</feed>
