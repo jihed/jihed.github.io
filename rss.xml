@@ -4,7 +4,7 @@
         <title>Jihed MSELMI Blog</title>
         <link>https://jihed.github.io/</link>
         <description>Jihed MSELMI Blog</description>
-        <lastBuildDate>Fri, 01 Jan 2021 23:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2021 00:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Jihed MSELMI.</copyright>
@@ -12,7 +12,7 @@
             <title><![CDATA[Introduction]]></title>
             <link>https://jihed.github.io/01-01-2021-post-1</link>
             <guid>Introduction</guid>
-            <pubDate>Fri, 01 Jan 2021 23:59:09 GMT</pubDate>
+            <pubDate>Sat, 02 Jan 2021 00:13:45 GMT</pubDate>
             <description><![CDATA[This is my first post.]]></description>
         </item>
     </channel>
