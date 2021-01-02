@@ -12,8 +12,8 @@ module.exports = {
     navbar: {
       title: 'Jihed MSELMI',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Roots',
+        src: 'img/logo.ico',
       },
       items: [
         {
